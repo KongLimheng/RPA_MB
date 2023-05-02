@@ -1,0 +1,115 @@
+{
+  "GenerateCrossPlatformAttributes": false,
+  "GenerateSelectorsForInnerElements": true,
+  "Connections": [
+    {
+      "Name": "OPPO",
+      "Description": null,
+      "Url": "http://localhost:4723/wd/hub",
+      "PlatformName": "Android",
+      "PlatformVersion": "13",
+      "DeviceName": "XSCIL74LLJN7UGKJ",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {},
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": true,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      }
+    },
+    {
+      "Name": "Virtual Device Pixel4",
+      "Description": null,
+      "Url": "http://localhost:4723/wd/hub",
+      "PlatformName": "Android",
+      "PlatformVersion": "13",
+      "DeviceName": "emulator-5554",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {},
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": false,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      }
+    },
+    {
+      "Name": "Galaxy Fold",
+      "Description": null,
+      "Url": "http://localhost:4723/wd/hub",
+      "PlatformName": "Android",
+      "PlatformVersion": "12",
+      "DeviceName": "R38MA01VHGH",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {},
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": true,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      }
+    }
+  ],
+  "Applications": [
+    {
+      "$id": "1",
+      "Name": "The App",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "automationName": "UiAutomator2",
+            "app": "G:\\TheApp.apk"
+          },
+          "StartPage": null
+        }
+      }
+    },
+    {
+      "$id": "2",
+      "Name": "COE",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "app": "G:\\coe.apk"
+          },
+          "StartPage": null
+        }
+      }
+    },
+    {
+      "$id": "3",
+      "Name": "MB",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "app": "G:\\MB.apk"
+          },
+          "StartPage": ""
+        }
+      }
+    }
+  ],
+  "NormalizeSliderValue": false,
+  "IdsMaxAllowedLength": 40,
+  "LogsPath": "%TEMP%\\UiPath Mobile Automation Logs",
+  "Variables": {}
+}
