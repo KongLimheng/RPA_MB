@@ -40,14 +40,7 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "bb353a21-4228-4da1-82f0-a87034a497bd",
-        "testCaseType": "TestCase",
-        "fileName": "Main.xaml"
-      }
-    ],
+    "fileInfoCollection": [],
     "modernBehavior": true
   },
   "expressionLanguage": "CSharp",
