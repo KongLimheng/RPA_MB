@@ -1,6 +1,6 @@
 {
   "GenerateCrossPlatformAttributes": false,
-  "GenerateSelectorsForInnerElements": true,
+  "GenerateSelectorsForInnerElements": false,
   "Connections": [
     {
       "Name": "OPPO",
@@ -11,7 +11,11 @@
       "DeviceName": "XSCIL74LLJN7UGKJ",
       "SingleInstance": null,
       "WaitForPageUpdate": true,
-      "Capabilities": {},
+      "Capabilities": {
+        "autoGrantPermissions": "true",
+        "noReset": "true",
+        "adbExecTimeout": "0"
+      },
       "GeoLocation": null,
       "LoggingModel": {
         "LoggingEnabled": true,
@@ -20,7 +24,8 @@
         "VideoQuality": 1,
         "CollectScreenshot": 0,
         "CollectPageSource": 0
-      }
+      },
+      "HttpHeaders": {}
     },
     {
       "Name": "Virtual Device Pixel4",
@@ -40,7 +45,8 @@
         "VideoQuality": 1,
         "CollectScreenshot": 0,
         "CollectPageSource": 0
-      }
+      },
+      "HttpHeaders": {}
     },
     {
       "Name": "Galaxy Fold",
@@ -60,7 +66,8 @@
         "VideoQuality": 1,
         "CollectScreenshot": 0,
         "CollectPageSource": 0
-      }
+      },
+      "HttpHeaders": {}
     }
   ],
   "Applications": [
@@ -101,9 +108,14 @@
       "Platforms": {
         "Android": {
           "Capabilities": {
-            "app": "G:\\MB.apk"
+            "app": "G:\\CanadiaBank_UAT_3.3.3.3-U.apk",
+            "appPackage": "com.canadiabank.mobileapp.android"
           },
           "StartPage": ""
+        },
+        "iOS": {
+          "Capabilities": {},
+          "StartPage": null
         }
       }
     }
@@ -111,5 +123,6 @@
   "NormalizeSliderValue": false,
   "IdsMaxAllowedLength": 40,
   "LogsPath": "%TEMP%\\UiPath Mobile Automation Logs",
-  "Variables": {}
+  "Variables": {},
+  "HttpHeaders": {}
 }

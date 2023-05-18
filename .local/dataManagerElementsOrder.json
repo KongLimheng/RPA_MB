@@ -1,0 +1,258 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "EngExist&Sequence_11",
+        "InstalledApp&Sequence_11",
+        "AllowTakePicExist&Sequence_11",
+        "CID&Sequence_11",
+        "MCA&Sequence_11",
+        "IsInstalled&Sequence_11",
+        "Phone&Sequence_11",
+        "variable1&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EngLishFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Topup.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testId&Sequence_12",
+        "suiteId&Sequence_12",
+        "reportId&Sequence_12",
+        "successTopup&Sequence_11",
+        "touchIDExist&Sequence_11",
+        "AllowSentNotiExist&Sequence_11",
+        "OutputCon&Sequence_12",
+        "RangePin&Sequence_11",
+        "CID&Sequence_11",
+        "Phone&Sequence_11",
+        "EngExist&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestCases/Test_Topup.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SystmeFailExist&Sequence_240",
+        "enterPinExist&Sequence_241",
+        "enterPinExist&Sequence_242",
+        "enterPinExist&Sequence_243",
+        "enterPinExist&Sequence_244",
+        "SystmeFailExist&Sequence_187",
+        "enterPinExist&Sequence_188",
+        "enterPinExist&Sequence_189",
+        "enterPinExist&Sequence_190",
+        "enterPinExist&Sequence_191",
+        "enterPinExist&Sequence_153",
+        "enterPinExist&Sequence_152",
+        "enterPinExist&Sequence_151",
+        "SystmeFailExist&Sequence_137",
+        "enterPinExist&Sequence_138",
+        "enterPinExist&Sequence_128",
+        "enterPinExist&Sequence_111",
+        "enterPinExist&Sequence_110",
+        "enterPinExist&Sequence_108",
+        "systemBusyExist&Sequence_1",
+        "enterPinExist&Sequence_1",
+        "enterPinExist&Sequence_92",
+        "enterPinExist&Sequence_86",
+        "enterPinExist&Sequence_81",
+        "enterPinExist&Sequence_71",
+        "enterPinExist&Sequence_66",
+        "select&Sequence_33",
+        "enterPinExist&Sequence_56",
+        "ScanQrExist&Sequence_33",
+        "textFromClick&Sequence_1",
+        "recentlyExist&Sequence_35",
+        "enterPinExist&Sequence_37",
+        "choice&Sequence_1",
+        "cidChoice&Sequence_1",
+        "MobileDeviceCon&Sequence_1",
+        "AllowSentNotiExist&Sequence_1",
+        "Phone&Sequence_1",
+        "CID&Sequence_1",
+        "RangePin&Sequence_1",
+        "touchIDExist&Sequence_1",
+        "EngExist&Sequence_1",
+        "successTopup&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": [
+        "Microsoft.Windows.Input"
+      ]
+    },
+    {
+      "Path": "Report to Excel.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "excelDB&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "dbTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Activate CID.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "failLogin&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "MobileDeviceCon",
+        "successTopup",
+        "EngExist",
+        "touchIDExist",
+        "RangePin",
+        "CID",
+        "Phone",
+        "AllowSentNotiExist"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FAQ.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "enterPinExist&Sequence_22"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "RangePin",
+        "MobileDeviceCon"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CanaPoin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "enterPinExist&Sequence_22"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "MobileDeviceCon",
+        "RangePin"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Utils.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "enterPinExist&Sequence_34",
+        "enterPinExist&Sequence_28"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "MobileDeviceCon",
+        "RangePin"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MyQR.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "textFromAmount&Sequence_29"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "MobileDeviceCon"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.96d8f7672240.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AllowSentNotiExist&Sequence_101",
+        "Phone&Sequence_101",
+        "CID&Sequence_101",
+        "RangePin&Sequence_101",
+        "touchIDExist&Sequence_101",
+        "EngExist&Sequence_101",
+        "successTopup&Sequence_101",
+        "MobileDeviceCon&Sequence_101",
+        "cidChoice&Sequence_101",
+        "choice&Sequence_101",
+        "textFromClick&Sequence_101",
+        "enterPinExist&Sequence_101",
+        "UiPathScopeContext&Sequence_101",
+        "enterPinExist&Sequence_66",
+        "enterPinExist&Sequence_71",
+        "enterPinExist&Sequence_86",
+        "enterPinExist&Sequence_81",
+        "enterPinExist&Sequence_92"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.bcc00f24f821.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AllowSentNotiExist&Sequence_107",
+        "Phone&Sequence_107",
+        "CID&Sequence_107",
+        "RangePin&Sequence_107",
+        "touchIDExist&Sequence_107",
+        "EngExist&Sequence_107",
+        "successTopup&Sequence_107",
+        "MobileDeviceCon&Sequence_107",
+        "cidChoice&Sequence_107",
+        "choice&Sequence_107",
+        "textFromClick&Sequence_107",
+        "enterPinExist&Sequence_107",
+        "systemBusyExist&Sequence_107",
+        "UiPathScopeContext&Sequence_107",
+        "enterPinExist&Sequence_66",
+        "enterPinExist&Sequence_71",
+        "enterPinExist&Sequence_86",
+        "enterPinExist&Sequence_81",
+        "enterPinExist&Sequence_92"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

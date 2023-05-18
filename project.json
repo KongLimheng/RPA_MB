@@ -3,6 +3,8 @@
   "description": "Mobile Testing Project For MB",
   "main": "",
   "dependencies": {
+    "ReporterForUiPath.Activities": "[3.0.1]",
+    "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.MobileAutomation.Activities": "[23.4.0]",
     "UiPath.System.Activities": "[23.5.0-preview]",
     "UiPath.Testing.Activities": "[23.5.0-preview]"
@@ -40,7 +42,17 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2a09cb56-0e95-4934-b54f-7027af4768f6",
+        "executionTemplatePath": "Test With Timeout (UiPath.Testing.Activities);UiPath.Testing.Activities;Test With Timeout.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "PackageFileTemplate",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\Test_Topup.xaml"
+      }
+    ],
     "modernBehavior": true
   },
   "expressionLanguage": "CSharp",
