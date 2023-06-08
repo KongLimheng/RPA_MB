@@ -3,7 +3,6 @@
   "description": "Mobile Testing Project For MB",
   "main": "",
   "dependencies": {
-    "ReporterForUiPath.Activities": "[3.0.1]",
     "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.MobileAutomation.Activities": "[23.4.0]",
     "UiPath.System.Activities": "[23.5.0-preview]",

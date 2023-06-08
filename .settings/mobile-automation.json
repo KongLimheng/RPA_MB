@@ -13,8 +13,7 @@
       "WaitForPageUpdate": true,
       "Capabilities": {
         "autoGrantPermissions": "true",
-        "noReset": "true",
-        "adbExecTimeout": "0"
+        "noReset": "true"
       },
       "GeoLocation": null,
       "LoggingModel": {
@@ -102,20 +101,15 @@
     },
     {
       "$id": "3",
-      "Name": "MB",
+      "Name": "MB 3.3.4.2",
       "Description": null,
       "Type": "App",
       "Platforms": {
         "Android": {
           "Capabilities": {
-            "app": "G:\\CanadiaBank_UAT_3.3.3.3-U.apk",
-            "appPackage": "com.canadiabank.mobileapp.android"
+            "app": "G:\\CanadiaBank_UAT.apk"
           },
           "StartPage": ""
-        },
-        "iOS": {
-          "Capabilities": {},
-          "StartPage": null
         }
       }
     }

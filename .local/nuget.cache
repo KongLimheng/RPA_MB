@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/5E59/jt5yHPhFW3M2PWFEmOimzQp5NWIa0icpixqsjpdoIv/WcNR2e8vz8hDPXUfAvcc/M6b8X/RS4+6Ht0A==",
+  "dgSpecHash": "SmenYQDCpk9vXxh+Q/AKL3sppH5ikMtz1QeZNPkR/LMfquPFAYtnYY9SW8tdeIT0coci+xBew3zoticmWoOzZQ==",
   "success": true,
   "projectFilePath": "G:\\project\\tutorial\\RPA_Project\\MB\\.local\\",
   "expectedPackageFiles": [
@@ -78,7 +78,6 @@
     "C:\\Users\\brosh\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\brosh\\.nuget\\packages\\portable.xaml\\0.26.0\\portable.xaml.0.26.0.nupkg.sha512",
     "C:\\Users\\brosh\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
-    "C:\\Users\\brosh\\.nuget\\packages\\reporterforuipath.activities\\3.0.1\\reporterforuipath.activities.3.0.1.nupkg.sha512",
     "C:\\Users\\brosh\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\runtime.any.system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\brosh\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\runtime.any.system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\brosh\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\runtime.any.system.reflection.primitives.4.3.0.nupkg.sha512",
